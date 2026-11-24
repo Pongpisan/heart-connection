@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" width="720" height="560" role="img" aria-label="ภูเขาและท้องฟ้ายามเย็น">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#3b275f"/><stop offset=".72" stop-color="#ba638e"/><stop offset="1" stop-color="#ffc1ac"/></linearGradient>
+    <linearGradient id="ground" x2="0" y2="1"><stop stop-color="#563468"/><stop offset="1" stop-color="#241e48"/></linearGradient>
+    <radialGradient id="light"><stop stop-color="#ffd3b9" stop-opacity=".8"/><stop offset="1" stop-color="#ffadab" stop-opacity="0"/></radialGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h720v560H0z"/>
+  <circle cx="388" cy="275" r="173" fill="url(#light)"/><circle cx="388" cy="275" r="76" fill="#ffd4ba"/>
+  <g fill="#ffe5d1" opacity=".72"><circle cx="141" cy="101" r="3"/><circle cx="516" cy="85" r="2"/><circle cx="581" cy="150" r="4"/><circle cx="231" cy="170" r="2"/><circle cx="639" cy="100" r="2"/><path d="M265 85v20m-10-10h20" stroke="#ffe5d1" stroke-width="2"/></g>
+  <path d="m0 365 91-105 53 55 94-122 103 134 80-21 54 42 59-75 46 35 60-59 80 94v218H0Z" fill="#885277"/>
+  <path d="M0 422c124-48 165-77 274-51 109 26 168 36 255-7 89-43 136-27 191-3v199H0Z" fill="#65416b"/>
+  <path d="M0 457c107-34 165 19 293 5 163-17 278-87 427-64v162H0Z" fill="url(#ground)"/>
+  <path d="M327 560c-21-31 25-52 65-62 42-11 60-27 52-40 28 13 10 33-36 51-40 15-47 36-30 51" fill="#eb9caa" opacity=".7"/>
+  <g stroke="#291c47" stroke-width="4" stroke-linecap="round" fill="none"><path d="M93 560q3-100-23-142m21 103q18-51 36-57m-46 35q-25-31-40-34M625 560q4-90 32-136m-25 100q-19-46-32-62m43 27q20-24 39-29"/></g>
+</svg>

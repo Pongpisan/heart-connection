@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" width="720" height="560" role="img" aria-label="ดวงอาทิตย์และดอกไม้">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#9c8abc"/><stop offset=".51" stop-color="#e2a7b6"/><stop offset="1" stop-color="#fbc8a4"/></linearGradient><linearGradient id="land" x2="0" y2="1"><stop stop-color="#a37393"/><stop offset="1" stop-color="#53446f"/></linearGradient><g id="flower"><path d="M0 58Q8 37 0 4m3 38q9-17 20-20m-21 27q-9-14-16-16" fill="none" stroke="#756184" stroke-width="3" stroke-linecap="round"/><g fill="#ffe1ce"><ellipse cy="-2" ry="9" rx="6"/><ellipse cx="8" cy="5" ry="6" rx="9"/><ellipse cy="12" ry="8" rx="6"/><ellipse cx="-8" cy="5" ry="6" rx="8"/></g><circle cy="5" r="4" fill="#d8889e"/></g></defs>
+  <path fill="url(#sky)" d="M0 0h720v560H0z"/><circle cx="367" cy="270" r="88" fill="#ffe3ba"/><path d="M61 139c83-13 153-13 232-2m193 50c56-9 105-7 166 1m-577 34c56-8 102-7 151 2" fill="none" stroke="#ffdbcd" stroke-width="4" opacity=".76" stroke-linecap="round"/>
+  <path d="M0 381q107-103 224-50t234 21q122-59 262-38v246H0Z" fill="#aa829d"/>
+  <path d="M0 420q101-54 247-31 138 22 219-7 135-49 254 4v174H0Z" fill="url(#land)"/>
+  <path d="M0 488c131-43 209-21 332-17 129 4 246-36 388-24v113H0Z" fill="#54456f" opacity=".65"/>
+  <g><use href="#flower" transform="translate(86 453) scale(1.3)"/><use href="#flower" transform="translate(167 490) scale(.75)"/><use href="#flower" transform="translate(271 444) scale(.7)"/><use href="#flower" transform="translate(524 458) scale(1.05)"/><use href="#flower" transform="translate(615 484) scale(.82)"/><use href="#flower" transform="translate(682 427) scale(1.22)"/></g>
+  <g fill="#ffd4c9" opacity=".75"><circle cx="45" cy="511" r="3"/><circle cx="212" cy="528" r="2"/><circle cx="366" cy="496" r="3"/><circle cx="461" cy="522" r="3"/><circle cx="663" cy="526" r="2"/></g>
+</svg>
